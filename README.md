@@ -2,8 +2,11 @@
 # Apti-Genius
 
 An Aptitude Skills Development App(Admin and User) using Android Studio and Firebase
+
 ![Android](https://img.shields.io/badge/platform-Android-green.svg)
+
 ![Firebase](https://img.shields.io/badge/backend-Firebase-orange.svg)
+
 ![Java](https://img.shields.io/badge/language-Java-blue.svg)
 
 
