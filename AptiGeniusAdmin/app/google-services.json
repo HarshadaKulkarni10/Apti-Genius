@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "813360381762",
+    "project_id": "aptigenius-671f1",
+    "storage_bucket": "aptigenius-671f1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813360381762:android:c12852cf626e4e03e6d2db",
+        "android_client_info": {
+          "package_name": "com.example.apti_geniusadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5OvAJkWbZwOFsjUR9Q38PdO5-UA-KpfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
