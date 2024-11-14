@@ -53,7 +53,23 @@ An Aptitude Skills Development App(Admin and User) using Android Studio and Fire
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![splash screen](https://github.com/user-attachments/assets/444d084d-ed3a-4c6e-8e19-3d599a6bf9f1)
+![signup](https://github.com/user-attachments/assets/a8ea4f39-0213-4347-8082-a5cd29bf724a)
+![login](https://github.com/user-attachments/assets/be1abae4-7452-406e-a8ce-fa691493bf7d)
+![admin adding category](https://github.com/user-attachments/assets/f15740d2-3f8c-4151-83f8-824d42fc7926)
+![admin add category](https://github.com/user-attachments/assets/56705e6a-cab4-4479-8140-cf216af0632b)
+![admin add tests](https://github.com/user-attachments/assets/50b53a51-cb6a-4d43-9c48-a25d36c96481)
+![admin addquestion](https://github.com/user-attachments/assets/6021bebc-8a61-4d54-8315-e794b9d3100b)
+![admin view addedque](https://github.com/user-attachments/assets/01134318-e0ec-446d-b2e0-a7cd8d3f64e4)
+![user choose catgory](https://github.com/user-attachments/assets/ba577994-b3e2-46d0-ad61-ff8371beec56)
+![user choose test](https://github.com/user-attachments/assets/0c252720-d982-4b19-9fa7-a2d4c5e941a2)
+![user que](https://github.com/user-attachments/assets/08f1817a-cfec-4266-b775-33cf0e8ddda3)
+![user rightque](https://github.com/user-attachments/assets/59893ade-6a6b-4fc4-b085-20c9919d37ab)
+![user wrongque](https://github.com/user-attachments/assets/c9460ea7-f7ac-48a2-a199-ba7183c54664)
+![user timeout](https://github.com/user-attachments/assets/ee011d9c-41d5-48d0-849e-e0cce8bbc3f7)
+![user score](https://github.com/user-attachments/assets/7634e321-6790-41b3-8471-60a43d79604b)
+
+
 
 
 ## Setup Instructions
